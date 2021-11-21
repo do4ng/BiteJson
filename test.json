@@ -1,0 +1,11 @@
+// @bite/strictMode=false
+
+{
+  "name": "AWESOMENAME", //// this is comment!
+  "age": 30, // ...
+  "woman": false,
+  "hobby": ["⚽ soccer", "🎨 draw"]
+  /*
+  lol!
+  */
+}
