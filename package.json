@@ -1,7 +1,20 @@
 {
   "name": "bitejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
+  "description": "Javascript JSON parser",
+  "homepage": "https://github.com/kangdongmandoo/BiteJson",
+  "bugs": {
+    "url": "https://github.com/kangdongmandoo/BiteJson/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "keywords": [
+    "json",
+    "parser"
+  ],
   "scripts": {
     "build": "tsc"
   },
