@@ -1,4 +1,4 @@
-// @bite/strictMode=false
+// @bite/strictMode=true
 
 {
   "name": "AWESOMENAME", //// this is comment!
